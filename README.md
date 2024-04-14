@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AliKazmi123
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Backend Stuff
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/)
 
