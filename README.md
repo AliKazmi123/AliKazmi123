@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ali Hussain Kazmi! 👋
 
-I'm a passionate Full Stack Developer with a knack for crafting elegant and efficient web solutions. Let's build something incredible together!
+I'm a passionate Full Stack Developer with a knack for crafting elegant and efficient web and mobile solutions. With over couple of years of experience in the industry, I've honed my skills in both frontend and backend development, delivering high-quality projects that exceed client expectations. Let's build something incredible together!
 
 ## 🚀 About Me
 
