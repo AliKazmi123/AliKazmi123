@@ -25,6 +25,7 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 ### Backend
 - Node.js 🚀
 - Express.js 🌐
+- tRPC 🌐
 - Prisma 🎨
 - PostgreSQL 🐘
 
@@ -32,6 +33,3 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 
 Let's connect and bring your ideas to life! You can reach me via email at ali.hussain@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/).
 
-<p align="left">
-  <img src="https://media.giphy.com/media/3o7TKyFXY8yCMJwufC/giphy.gif" width="400px">
-</p>
