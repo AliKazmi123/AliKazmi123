@@ -15,22 +15,30 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 - 📚 Graduated with a degree in Computer Science, I'm dedicated to honing my skills and staying updated with the latest industry trends.
 - 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/) for collaborations or discussions on all things tech.
 
+## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- Next.js
-- React Native
-- Storybook
-- Material UI
-- Jest
-- Playwright
+<p align="left">
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/tech-stack.png" alt="Tech Stack">
+</p>
 
-### Backend
-- Node.js
-- Express.js
-- tRPC
-- Prisma
-- PostgreSQL
+<div align="left">
+  <h3>Frontend</h3>
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/react-icon.png" alt="React.js" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/nextjs-icon.png" alt="Next.js" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/react-native-icon.png" alt="React Native" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/storybook-icon.png" alt="Storybook" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/material-ui-icon.png" alt="Material UI" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/jest-icon.png" alt="Jest" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/playwright-icon.png" alt="Playwright" width="50px">&nbsp;&nbsp;
+</div>
+
+<div align="left">
+  <h3>Backend</h3>
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/nodejs-icon.png" alt="Node.js" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/expressjs-icon.png" alt="Express.js" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/prisma-icon.png" alt="Prisma" width="50px">&nbsp;&nbsp;
+  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/postgresql-icon.png" alt="PostgreSQL" width="50px">&nbsp;&nbsp;
+</div>
 
 ## 📫 Get in Touch
 
