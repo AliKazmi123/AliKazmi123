@@ -14,14 +14,14 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js ⚛️, Next.js 🌐, Storybook 📖, Material UI 🔍, Jest 🃏, Playwright 🎭
-
-### Backend
-- Node.js 🚀, Express.js 🌐, tRPC 🌐, Prisma 🎨, PostgreSQL 🐘
-
-### Additional Skills
-- Docker 🐳, AWS ☁️, CI/CD 🛠️
+| Frontend             | Backend             | Additional Skills  |
+|----------------------|---------------------|---------------------|
+| React.js ⚛️          | Node.js 🚀          | Docker 🐳           |
+| Next.js 🌐           | Express.js 🌐       | AWS ☁️             |
+| Storybook 📖        | tRPC 🌐            | CI/CD 🛠️          |
+| Material UI 🔍      | Prisma 🎨         |                     |
+| Jest 🃏               | PostgreSQL 🐘      |                     |
+| Playwright 🎭        |                     |                     |
 
 ## 📫 Get in Touch
 
