@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="left">
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/developer.gif" width="350px">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350px">
 </p>
 
 # Hi there, I'm Ali Hussain Kazmi! 👋
@@ -18,32 +18,26 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/tech-stack.png" alt="Tech Stack">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native">
+  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native">
+  <img src="https://img.icons8.com/color/48/000000/storybook.png" alt="Storybook">
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI">
+  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest">
+  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright">
 </p>
 
-<div align="left">
-  <h3>Frontend</h3>
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/react-icon.png" alt="React.js" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/nextjs-icon.png" alt="Next.js" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/react-native-icon.png" alt="React Native" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/storybook-icon.png" alt="Storybook" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/material-ui-icon.png" alt="Material UI" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/jest-icon.png" alt="Jest" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/playwright-icon.png" alt="Playwright" width="50px">&nbsp;&nbsp;
-</div>
-
-<div align="left">
-  <h3>Backend</h3>
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/nodejs-icon.png" alt="Node.js" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/expressjs-icon.png" alt="Express.js" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/prisma-icon.png" alt="Prisma" width="50px">&nbsp;&nbsp;
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/postgresql-icon.png" alt="PostgreSQL" width="50px">&nbsp;&nbsp;
-</div>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js">
+  <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL">
+</p>
 
 ## 📫 Get in Touch
 
 Let's connect and bring your ideas to life! You can reach me via email at ali.hussain@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/).
 
 <p align="left">
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/connect.gif" width="400px">
+  <img src="https://media.giphy.com/media/3o7TKyFXY8yCMJwufC/giphy.gif" width="400px">
 </p>
