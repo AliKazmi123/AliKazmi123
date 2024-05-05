@@ -29,7 +29,11 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 - Prisma 🎨
 - PostgreSQL 🐘
 
+### Additional Skills
+- Docker 🐳
+- AWS ☁️
+- CI/CD 🛠️
+
 ## 📫 Get in Touch
 
-Let's connect and bring your ideas to life! You can reach me via email at ali.hussain@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/).
-
+Let's connect and bring your ideas to life! You can reach me via email at alikazmi187248@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/).
