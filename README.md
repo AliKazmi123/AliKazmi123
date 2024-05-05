@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="left">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350px">
-</p>
 
 # Hi there, I'm Ali Hussain Kazmi! 👋
 
@@ -17,22 +14,19 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native">
-  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native">
-  <img src="https://img.icons8.com/color/48/000000/storybook.png" alt="Storybook">
-  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI">
-  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest">
-  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright">
-</p>
+### Frontend
+- React.js ⚛️
+- Next.js 🌐
+- Storybook 📖
+- Material UI 🔍
+- Jest 🃏
+- Playwright 🎭
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js">
-  <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL">
-</p>
+### Backend
+- Node.js 🚀
+- Express.js 🌐
+- Prisma 🎨
+- PostgreSQL 🐘
 
 ## 📫 Get in Touch
 
