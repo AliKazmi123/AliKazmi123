@@ -15,11 +15,6 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 - 📚 Graduated with a degree in Computer Science, I'm dedicated to honing my skills and staying updated with the latest industry trends.
 - 💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/) for collaborations or discussions on all things tech.
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://github.com/AliKazmi123/AliKazmi123/blob/main/assets/tech-stack.png" alt="Tech Stack">
-</p>
 
 ### Frontend
 - React.js
@@ -33,6 +28,7 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 ### Backend
 - Node.js
 - Express.js
+- tRPC
 - Prisma
 - PostgreSQL
 
