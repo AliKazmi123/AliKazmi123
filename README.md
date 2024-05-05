@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer with a knack for crafting elegant and effi
 
 ## 🛠️ Tech Stack
 
-| Frontend             | Backend             | Additional Skills           |
+| Frontend             | Backend + ORM + DB             | Additional Skills           |
 |----------------------|---------------------|------------------------------|
 | React.js ⚛️          | Node.js 🚀          | Docker 🐳                    |
 | Next.js 🌐           | Express.js 🌐       | AWS ☁️                      |
