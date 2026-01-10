@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ali Hussain Kazmi! 👋
 
-**Head of Software Engineering | Full Stack Developer | Software Engineering Lead**
+**Senior Full Stack Developer | Software Engineering Lead**
 
 I'm a passionate software engineering leader and full stack developer with a knack for crafting elegant and efficient web and mobile solutions. With experience spanning leadership, architecture, backend, frontend, and DevOps, I deliver scalable, high-quality products that exceed expectations. Let's build something incredible together!
 
@@ -10,7 +10,7 @@ I'm a passionate software engineering leader and full stack developer with a kna
 
 ## 🚀 About Me
 
-- 💼 **Currently**: Head of Software Engineering at [Perto GmbH](https://perto.de/), leading architecture, development, and delivery of core systems while still actively coding major features.
+- 💼 **Currently**: Senior Full Stack Developer at [Perto GmbH](https://perto.de/), leading architecture, development, and delivery of core systems while still actively coding major features.
 - 💻 Specialize in Full Stack Development — from backend architecture to pixel-perfect UI.
 - 📈 Proven track record in **migrating legacy systems**, **IoT integrations**, and **enterprise SaaS**.
 - 🌱 Lifelong learner exploring new tools, frameworks, and scalable architectures.
@@ -22,7 +22,7 @@ I'm a passionate software engineering leader and full stack developer with a kna
 
 ## 🏢 Work Experience (Highlights)
 
-### **Head of Software Engineering | Perto GmbH** (July 2025 – Present)
+### **Senior Software Developer | Perto GmbH** (July 2025 – Present)
 - Lead the software engineering team, defining technical strategy and ensuring timely delivery.
 - Architect and deliver scalable backend services with Node.js, Prisma, and PostgreSQL.
 - Mentor developers and foster a collaborative, high-performance culture.
