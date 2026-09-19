@@ -1,94 +1,65 @@
-<!-- Header -->
+# Ali Hussain Kazmi
 
-# Hi there, I'm Ali Hussain Kazmi! 👋
+**Senior Full Stack Developer · Engineering Lead at Perto · Berlin, Germany**
 
-**Senior Full Stack Developer | Software Engineering Lead**
+I build and scale B2B SaaS products end to end, from architecture and backend services to frontend, cloud infrastructure and delivery. I currently lead the engineering team at [Perto](https://perto.de/), where we bring buildings and heating systems online through IoT and add AI-powered features to our building management platform.
 
-I'm a passionate software engineering leader and full stack developer with a knack for crafting elegant and efficient web and mobile solutions. With experience spanning leadership, architecture, backend, frontend, and DevOps, I deliver scalable, high-quality products that exceed expectations. Let's build something incredible together!
-
----
-
-## 🚀 About Me
-
-- 💼 **Currently**: Senior Full Stack Developer at [Perto GmbH](https://perto.de/), leading architecture, development, and delivery of core systems while still actively coding major features.
-- 💻 Specialize in Full Stack Development — from backend architecture to pixel-perfect UI.
-- 📈 Proven track record in **migrating legacy systems**, **IoT integrations**, and **enterprise SaaS**.
-- 🌱 Lifelong learner exploring new tools, frameworks, and scalable architectures.
-- 🔭 Enjoy working on challenging, high-impact projects that push the boundaries of innovation.
-- 🎓 Bachelor of Computer Science (CGPA 3.76/4.0 | German CGPA 1.3).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/) for collaborations or discussions.
+[LinkedIn](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/) · [Email](mailto:alikazmi187248@gmail.com)
 
 ---
 
-## 🏢 Work Experience (Highlights)
+### What I work on
 
-### **Senior Software Developer | Perto GmbH** (July 2025 – Present)
-- Lead the software engineering team, defining technical strategy and ensuring timely delivery.
-- Architect and deliver scalable backend services with Node.js, Prisma, and PostgreSQL.
-- Mentor developers and foster a collaborative, high-performance culture.
-- Actively contribute code for critical features in BMS, IoT integrations, and SaaS solutions.
-
-### **Software Developer | Perto GmbH** (June 2024 – June 2025)
-- Migrated backend from Laravel/PHP to Node.js/Express.js with Prisma and PostgreSQL.
-- Managed AWS infrastructure (ECS, EC2, Load Balancer, CodeBuild, CodePipeline, Docker).
-- Developed AngularJS + TypeScript modules for BMS dashboards.
-- Handled RDS database optimizations with indexing and partitions.
-
-### **Full Stack Developer | Flipsight** (Sep 2023 – May 2024)
-- Built and maintained Qualifications Management System with Next.js, tRPC, and Prisma.
-- Designed reusable UI packages with Material UI and Storybook.
-- Implemented unit and e2e tests (React Testing Library, Playwright).
+- **Full stack product development:** TypeScript, React, Next.js, AngularJS, Node.js, tRPC, Prisma, PostgreSQL
+- **IoT & energy:** LoRaWAN, The Things Network (TTN), heat and power meters, payload encryption & decryption, device backchannel communication
+- **AI integration:** Claude API, OpenAI, DeepSeek, Whisper; LLM features that generate structured outputs
+- **Cloud & DevOps:** AWS (ECS, EC2, RDS, Load Balancer, CodeBuild, CodePipeline), Docker, CI/CD
+- **Engineering leadership:** architecture, technical strategy, mentoring, delivery
 
 ---
 
-## 🛠️ Tech Stack
+### Experience highlights
 
-| **Frontend**            | **Backend + ORM + DB**                              | **DevOps / Tools**                        |
-|-------------------------|------------------------------------------------------|---------------------------------------------|
-| React.js ⚛️, Next.js 🌐 | Node.js 🚀, Express.js 🌐, Prisma 🎨, Laravel 🐘    | Docker 🐳, AWS ☁️ (ECS, EC2, CodeBuild, CodePipeline) |
-| React Native 📱         | tRPC 🌐, REST APIs, Laravel Eloquent ORM             | GitHub, Jira, Xcode, SourceTree             |
-| AngularJS ⚙️            | MySQL, PostgreSQL 🐘                                 | CI/CD 🛠️                                   |
-| Material UI 🎨, AntD    | Firebase (Firestore, Auth, Storage) 🔥               |                                             |
-| Storybook 📖, i18n 🌍   | Contentful CMS 📚                                    |                                             |
-| Jest 🃏, Playwright 🎭  | Zod, DnD Kit                                         |                                             |
-| Detox 📱                |                                                      |                                             |
+**Perto GmbH, Berlin**
+Senior Software Developer (Jul 2025 – present) · Software Developer (Jun 2024 – Jun 2025)
 
----
+- Lead the engineering team: architecture, technical strategy, mentoring and delivery, while still shipping critical features.
+- Migrated the backend from Laravel / PHP to Node.js / Express with Prisma and PostgreSQL.
+- Integrated LoRaWAN heat meters and power meters via TTN, including payload decryption and backchannel communication to field devices.
+- Built AI features: **BMS Creator** (natural-language prompts → structured Building Management System designs) and an LLM-based optimization flowchart generator.
+- Manage AWS infrastructure and optimized RDS PostgreSQL performance with indexing and partitioning.
 
-## 📂 Featured Projects
+**Flipsight, Berlin** · Full Stack Developer (Sep 2023 – May 2024)
 
-### **Perto IOTA – Building Management System**
-- IoT use cases to bring buildings online, device decryption & backchannelling.
-- Backend with Node.js, Prisma, PostgreSQL, deployed via Docker & AWS.
-- Tech: AngularJS, TypeScript, Node.js, Express.js, Prisma, Jest, PostgreSQL, AWS.
+- Built a B2B qualification management SaaS with Next.js, tRPC and Prisma; shared UI package in Storybook; unit and e2e tests with React Testing Library and Playwright.
 
-### **Flipsight – Qualification Management System**
-- Enterprise B2B SaaS for managing qualifications.
-- Tech: Next.js, TypeScript, React Query, Zustand, Storybook, Prisma, tRPC, PostgreSQL, Playwright.
-
-### **Vessel Performance Manager**
-- Dashboards for vessel fuel consumption, trim, speed analytics.
-- Tech: React, Redux, Material UI, React Charts, AntD, PostgreSQL.
-
-### **Defeat Diabetes**
-- Mobile app & web maintenance for a medical health program.
-- Implemented automation for marketing team using Detox.
-- Tech: React Native, React Redux, Firebase, Contentful CMS, PostgreSQL.
+**Earlier:** Albis Marine Performance (vessel performance dashboards with React), TxLabz and Esource 42 (web and mobile apps with Next.js, React Native and Node.js).
 
 ---
 
-## 🌍 Languages
+### Tech stack
 
-- **Urdu** (Native)
-- **English** (Professional)
-- **German** (Intermediate, A2–B1)
+**Languages:** TypeScript, JavaScript, Python, PHP, SQL
+**Frontend:** React, Next.js, AngularJS, React Native, Redux, Zustand, React Query, Material UI, Storybook, i18n
+**Backend:** Node.js, Express, tRPC, Prisma, Laravel, REST APIs, WebSockets, Zod
+**Data:** PostgreSQL, MySQL, Firebase, Contentful
+**Testing:** Jest, React Testing Library, Playwright, Detox
+**Cloud & tools:** AWS, Docker, CI/CD, GitHub, Jira
+
+---
+
+### Selected work
+
+Most of my professional work lives in private company repositories. Products I have built or worked on:
+
+| Product | What it is | Links |
+|---|---|---|
+| Perto IOTA | IoT building management platform (B2B SaaS) | [Website](https://perto.de/) |
+| Flipsight | Qualification management system (B2B SaaS) | [Product](https://flipsight.de/produkt/) |
+| Vessel Performance Manager | Fuel, trim and speed analytics for ships | [Overview](https://www.albis-mp.com/_files/ugd/5e155c_a858f8d7eebd4b4aa4afe54a6e93195b.pdf) |
+| PAAQ | Q&A social platform connecting experts and learners | [App](https://paaq.app/) |
+| Defeat Diabetes | Health program app, mobile and web | [App Store](https://apps.apple.com/au/app/defeat-diabetes/id1532026930) · [Play Store](https://play.google.com/store/apps/details?id=com.defeatdiabetes.app) |
 
 ---
 
-## 📫 Get in Touch
-
-📧 Email: [alikazmi187248@gmail.com](mailto:alikazmi187248@gmail.com)  
-💼 LinkedIn: [Ali Hussain Kazmi](https://www.linkedin.com/in/ali-hussain-kazmi-a62411227/)  
-💻 GitHub: [AliKazmi123](https://github.com/AliKazmi123)  
-
----
+**Languages:** English (professional) · German (A2–B1, improving) · Urdu (native)
